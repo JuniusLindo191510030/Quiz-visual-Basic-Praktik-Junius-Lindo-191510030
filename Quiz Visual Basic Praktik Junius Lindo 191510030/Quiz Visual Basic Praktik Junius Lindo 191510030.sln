@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Quiz Visual Basic Praktik Junius Lindo 191510030", "Quiz Visual Basic Praktik Junius Lindo 191510030\Quiz Visual Basic Praktik Junius Lindo 191510030.vbproj", "{3C3CEEE0-9F39-41C8-B3FD-3BE204B9E43E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C3CEEE0-9F39-41C8-B3FD-3BE204B9E43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3CEEE0-9F39-41C8-B3FD-3BE204B9E43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3CEEE0-9F39-41C8-B3FD-3BE204B9E43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3CEEE0-9F39-41C8-B3FD-3BE204B9E43E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {031F5E5D-A5C7-4F7F-AB50-910D54E1518C}
+	EndGlobalSection
+EndGlobal
