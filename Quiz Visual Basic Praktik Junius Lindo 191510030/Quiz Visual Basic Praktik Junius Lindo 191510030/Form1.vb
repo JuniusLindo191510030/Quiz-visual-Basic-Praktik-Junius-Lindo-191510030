@@ -1,9 +1,9 @@
 ﻿Public Class Form1
 
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-        golongan.Items.Add("I")
-        golongan.Items.Add("II")
-        golongan.Items.Add("III")
+        golongan.Items.Add("Manager")
+        golongan.Items.Add("Chef")
+        golongan.Items.Add("Pelayan & Kasir")
 
         status.Items.Add("Sudah Menikah")
         status.Items.Add("Belum Menikah")
@@ -22,11 +22,11 @@
     End Sub
 
     Private Sub golongan_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles golongan.SelectedIndexChanged
-        If golongan.Text = "I" Then
+        If golongan.Text = "Manager" Then
             gaji.Text = 5000000
-        ElseIf golongan.Text = "II" Then
+        ElseIf golongan.Text = "Chef" Then
             gaji.Text = 4000000
-        ElseIf golongan.Text = "III" Then
+        ElseIf golongan.Text = "Pelayan & Kasir" Then
             gaji.Text = 3000000
         Else
             gaji.Text = 0
